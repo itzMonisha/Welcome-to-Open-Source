@@ -59,7 +59,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://github.com/itzMonisha">
                     <img src="https://avatars.githubusercontent.com/u/202319652?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                        alt="MONISHA M P" />
                     <br />
                     <sub>
                         <b>MONISHA M P</b>
