@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Ali Solanki" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>MONISHA M P</b>
                     </sub>
                 </a>
             </td>
